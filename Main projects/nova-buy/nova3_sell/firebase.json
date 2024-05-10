@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "nova3_sell",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

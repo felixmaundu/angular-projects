@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "imarket-place-6f10d": {
+      "hosting": {
+        "nova1-buy": [
+          "imarket-place-6f10d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "imarket-place-6f10d"
+  }
+}

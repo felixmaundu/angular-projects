@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "nova1-buy",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
